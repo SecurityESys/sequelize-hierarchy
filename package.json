@@ -7,7 +7,7 @@
     "name": "Overlook Motel"
   },
   "exports": {
-    "./package.json": "./package.json"
+    ".": "./lib/index.js"
   },
   "repository": {
     "type": "git",
